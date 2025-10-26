@@ -1,1 +1,1 @@
-Olá esse é meu primeiro projeto usando git
+"Site para testes e estudos"
